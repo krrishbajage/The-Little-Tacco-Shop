@@ -7,4 +7,4 @@ it consists of four web pages:-
 -hours<br>
 -About<br>
 
-this projetcs helps gives me a hands on experience on html and css
+this projetcs gives me a hands on experience on html and css
